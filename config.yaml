@@ -1,0 +1,4 @@
+# config.yaml
+graphviz_path: "/usr/bin/dot"  # Путь к исполняемому файлу Graphviz (dot)
+repo_path: "/path/to/your/git/repository"  # Путь к анализируемому Git-репозиторию
+output_image: "dependency_graph.png"  # Путь к файлу для сохранения графа
