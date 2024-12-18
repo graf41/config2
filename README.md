@@ -278,6 +278,8 @@ if __name__ == '__main__':
 
 Тесты сохранения графа в формате PNG.
 
+<img width="635" alt="Снимок экрана 2024-12-18 в 11 05 41" src="https://github.com/user-attachments/assets/cff35ce2-4c3b-4798-92c5-c2979da82e21" />
+
 Запуск тестов выполняется с помощью unittest:
 ```
 python test_visualizer.py
